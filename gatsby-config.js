@@ -1,3 +1,5 @@
+const { EventEmitter } = require('events');
+EventEmitter.defaultMaxListeners = 15; // Increase limit (default is 10)
 const config = require('./src/config');
 
 module.exports = {
