@@ -56,17 +56,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
+  const two = <h2 className="big-heading">Tane Koh.</h2>;
   const three = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+      I’m an electrical engineer passionate about developing technologies to improve renewable energy systems. 
+      I’m currently a student at Franklin W. Olin College of Engineering. 
       </p>
     </>
   );
