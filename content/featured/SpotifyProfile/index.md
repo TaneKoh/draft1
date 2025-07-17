@@ -1,15 +1,17 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Bluetooth Speaker'
+cover: './speaker.png'
+github: 'https://github.com/TaneKoh'
+external: 'https://docs.google.com/document/d/1f8b2yyZAqT6yOtdHFhXtBd1CoF6PEd7dyhaStbpYkb8/edit?tab=t.0'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Circuit and Filter Design
+  - Soldering
+  - Battery Design
+  - VituixCAD
+  - KiCad
+  - Woodworking
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A functional bluetooth speaker, with the exterior casing constructed in the wood shop, and the interior
+circuitry developed in VituixCAD and KiCad.
