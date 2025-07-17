@@ -5,7 +5,7 @@
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/TaneKoh/draft1"
   },
   "keywords": [
     "gatsby"
@@ -13,8 +13,8 @@
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
   "scripts": {
-    "build": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby build",
-    "develop": "set NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
