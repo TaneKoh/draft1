@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Differential Amplifier Simulation and Measurement'
-cover: './diffamp.png'
+cover: './diffamp.jpeg'
 github: 'https://github.com/coxlaurel/vend-pie24'
 external: 'https://coxlaurel.github.io/vend-pie24/index.html'
 tech:
