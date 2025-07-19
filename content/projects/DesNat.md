@@ -8,6 +8,8 @@ tech:
   - Laser Cutter
 company: 'Design Nature'
 showInProjects: true
+ios: ''
+android: ''
 ---
 
 Developed a functional prototype of a 'hopper' bio-inspired by a tree frog.

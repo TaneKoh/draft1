@@ -9,6 +9,8 @@ tech:
   - Research
 company: 'Olin'
 showInProjects: true
+ios: ''
+android: ''
 ---
 
 Conducted qualitative research on students’ perception of value creation using collaborative ethnography methods. Collected and analyzed journal entries from participants, coding actions and value creation types.

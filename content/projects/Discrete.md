@@ -9,6 +9,8 @@ tech:
   - Circuit Design
   - Matrices
 showInProjects: true
+ios: ''
+android: ''
 ---
 
 Developed simple circuit simulation to demonstrate hamming code error detection and correction using parity check matrices.

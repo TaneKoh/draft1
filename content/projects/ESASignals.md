@@ -9,6 +9,8 @@ tech:
   - Nyquist Frequency
 company: 'ESA: Signals'
 showInProjects: true
+ios: ''
+android: ''
 ---
 
 Designed and implemented an acoustic modem receiver to demodulate and decode transmitted messages by reconstructing

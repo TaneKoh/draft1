@@ -8,6 +8,8 @@ tech:
   - Electrical Design
   - Power handling
 showInProjects: true
+ios: ''
+android: ''
 ---
 
 Collaborated with local residents to determine purchases and finalize floor plan, finally developing an electrical grid plan for a solar-powered food forest.

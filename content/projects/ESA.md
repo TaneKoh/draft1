@@ -9,6 +9,8 @@ tech:
   - PI Control System
 company: 'ESA'
 showInProjects: true
+ios: ''
+android: ''
 ---
 
 Developed a control system to balance an inverted pendulum on a cart using PI controllers and feedback loops. Validated results through practical testing, ensuring system still performed under disturbances.

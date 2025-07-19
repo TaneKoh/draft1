@@ -8,6 +8,8 @@ tech:
   - Bootstrap
 company: 'Olin Data Science'
 showInProjects: true
+ios: ''
+android: ''
 ---
 
 Scraped over 10,000 entries of data on purchases, installations, and efficiency of solar panels in MA using Python, then identified trends in solar panel purchases and installations over the last 15 years. Finally, performed analysis on the data in R-Studio and presented findings.
