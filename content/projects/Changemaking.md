@@ -2,7 +2,7 @@
 date: '2025-04-01'
 title: 'Changemaking in Engineering Research'
 github: ''
-external: ''
+external: 'https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:0d0a582a-554f-4ece-9fb3-6f21323ec532'
 tech:
   - DeDoose
   - Ethics

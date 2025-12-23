@@ -2,7 +2,7 @@
 date: '2025-03-01'
 title: 'Balancing an Inverted Pendulum on a Moving Cart'
 github: ''
-external: ''
+external: 'https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c42e1e3d-cf3e-4fb0-9448-12ea530dc8d5'
 tech:
   - MATLAB
   - Simulink

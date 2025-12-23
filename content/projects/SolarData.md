@@ -4,8 +4,8 @@ title: 'Massachusetts Solar Energy Data Analysis'
 github: ''
 external: ''
 tech:
-  - Jekyll
-  - Bootstrap
+  - R
+  - Python
 company: 'Olin Data Science'
 showInProjects: true
 ios: ''

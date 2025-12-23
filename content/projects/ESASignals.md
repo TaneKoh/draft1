@@ -2,7 +2,7 @@
 date: '2025-05-01'
 title: 'Acoustic Modem Signal Transmission and Decoding'
 github: ''
-external: ''
+external: 'https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:470486a3-461b-4c1e-85de-2fc6d0f6bc81'
 tech:
   - MATLAB
   - Filter Design
