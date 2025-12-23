@@ -1,6 +1,7 @@
 ---
 date: '2025-05-01'
 title: 'Tattoo Artist Museum Design Prototype'
+cover: ./images/inkstory.png
 github: ''
 external: 'https://drive.google.com/drive/u/1/folders/1XybhMNsETakrF9GYpBSn1ptqEFCId1Dh'
 tech:
@@ -8,6 +9,7 @@ tech:
   - Sprints
   - User Interaction
   - Ideation
+company: 'Collaborative Design'
 showInProjects: true
 ios: ''
 android: ''
