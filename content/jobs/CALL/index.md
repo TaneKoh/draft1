@@ -3,7 +3,7 @@ date: '2025-05-14'
 title: 'Student Representative'
 company: 'CALL: Sustainability'
 location: 'Needham, MA'
-range: 'January 2024 - Present'
+range: 'January 2024 - October 2025'
 ---
 
 - Acted as a student representative on the Campus as a Living Lab: Sustainability committee formed with faculty, staff, administration, and students

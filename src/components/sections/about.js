@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['MATLAB','KiCad','LTSpice','Python','C++','HTML','R'];
+  const skills = [
+    'MATLAB',
+    'KiCad',
+    'LTSpice',
+    'System Verilog',
+    'iVerilog',
+    'Python',
+    'C++',
+    'HTML',
+    'R',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +145,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            I’m Tane and I’m majoring in Electrical and Computer Engineering at Olin College. 
-            Sustainability and renewable energy are keen interests of mine, and I would love 
-            to eventually work in the clean energy industry to improve and develop renewable 
-            energy technology. As a student at Olin, I’ve been able to contribute and lead all 
-            sorts of projects across different disciplines. I’ve helped build a vending machine, 
-            design a food forest, build a speaker, and model a solar farm.
-            </p>
-            
-            <p>
-            Currently, I’m working to refine and improve some of the Bluetooth speakers I’ve built. 
-            I’m also excited to study in Copenhagen in the spring and learn about different 
-            sustainability and transportation models.
+              I’m Tane and I’m majoring in Electrical and Computer Engineering at Olin College.
+              Sustainability and renewable energy are keen interests of mine, and I would love to
+              eventually work in the clean energy industry to improve and develop renewable energy
+              technology. As a student at Olin, I’ve been able to contribute and lead all sorts of
+              projects across different disciplines. I’ve helped build a vending machine, design a
+              RISC-V processor, build a speaker, and model a solar farm.
             </p>
 
-            <p>These are some of the technologies I've gotten more comfortable with during my projects:</p>
+            <p>
+              Currently, I’m working to refine and improve some of the Bluetooth speakers I’ve
+              built. I’m also excited to study in Copenhagen in the spring and learn about different
+              sustainability and transportation models.
+            </p>
+
+            <p>
+              These are some of the technologies I've gotten more comfortable with during my
+              projects:
+            </p>
           </div>
 
           <ul className="skills-list">
